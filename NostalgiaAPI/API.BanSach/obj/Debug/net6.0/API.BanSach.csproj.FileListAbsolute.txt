@@ -1,0 +1,246 @@
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.csproj.AssemblyReference.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.AssemblyInfoInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.AssemblyInfo.cs
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.csproj.CoreCompileInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.MvcApplicationPartsAssemblyInfo.cs
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.MvcApplicationPartsAssemblyInfo.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\appsettings.Development.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\appsettings.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\API.BanSach.exe
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\API.BanSach.deps.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\API.BanSach.runtimeconfig.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\API.BanSach.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Azure.Core.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Azure.Identity.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Memory.Data.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\DataAccessLayer.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\DataModel.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.API.BanSach.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.build.API.BanSach.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.BanSach.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.BanSach.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets.pack.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets.build.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets.development.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\scopedcss\bundle\API.BanSach.styles.css
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.csproj.CopyComplete
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\refint\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.genruntimeconfig.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\ref\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\appsettings.Development.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\appsettings.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\API.BanSach.exe
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\API.BanSach.deps.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\API.BanSach.runtimeconfig.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\API.BanSach.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Azure.Core.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Azure.Identity.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Memory.Data.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\DataAccessLayer.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\DataModel.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.csproj.AssemblyReference.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.AssemblyInfoInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.AssemblyInfo.cs
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.csproj.CoreCompileInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.MvcApplicationPartsAssemblyInfo.cs
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.MvcApplicationPartsAssemblyInfo.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.API.BanSach.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.build.API.BanSach.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.BanSach.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.BanSach.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets.pack.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets.build.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\staticwebassets.development.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\scopedcss\bundle\API.BanSach.styles.css
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.csproj.CopyComplete
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\refint\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\API.BanSach.genruntimeconfig.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\API.BanSach\obj\Debug\net6.0\ref\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\appsettings.Development.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\appsettings.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\API.BanSach.exe
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\API.BanSach.deps.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\API.BanSach.runtimeconfig.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\API.BanSach.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Azure.Core.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Azure.Identity.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\System.Memory.Data.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\DataAccessLayer.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\DataModel.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.csproj.AssemblyReference.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.AssemblyInfoInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.AssemblyInfo.cs
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.csproj.CoreCompileInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.MvcApplicationPartsAssemblyInfo.cs
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.MvcApplicationPartsAssemblyInfo.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.API.BanSach.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.build.API.BanSach.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.BanSach.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.BanSach.props
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\staticwebassets.pack.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\staticwebassets.build.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\staticwebassets.development.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\scopedcss\bundle\API.BanSach.styles.css
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.csproj.CopyComplete
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\refint\API.BanSach.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\API.BanSach.genruntimeconfig.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\API.BanSach\obj\Debug\net6.0\ref\API.BanSach.dll

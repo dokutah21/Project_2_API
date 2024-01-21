@@ -1,0 +1,33 @@
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Phát triển phần mềm hướng dịch vụ\Bài tập lớn\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\WebAPI_Quản lý Website bán sách IPM\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\2. Document For Year 3\Kỳ 1 (2023-2024)\Đồ án 2\NostalgiaAPI\DataModel\obj\Debug\net6.0\ref\DataModel.dll
